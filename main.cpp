@@ -3,7 +3,7 @@
 int main()
 {
 	std::cout << "Hello GitHub World\n";
-	std::cout << "GitHub Clone changed\n";
+	std::cout << "Conflict changed\n";
 	std::cout << "New third branch\n";
 
 
